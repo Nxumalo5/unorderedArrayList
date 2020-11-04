@@ -1,4 +1,4 @@
-//201901166 Nxumalo
+//201901166 Bsc. Comp.Sci.Ed
 #pragma once
 
 const int MaxSize = 15;
